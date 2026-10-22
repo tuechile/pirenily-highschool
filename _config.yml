@@ -1,5 +1,6 @@
 # Base configs
-url: "https://tuechile.github.io"
+url: "https://pirenily.com"
+baseurl: "/pirenily-highschool"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
